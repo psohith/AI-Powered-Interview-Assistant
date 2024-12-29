@@ -1,0 +1,308 @@
+file_id,resume_content
+temp_sohithpamu_resume,"Sohith Pamu
+Mummidivaram, East Godavari, Andhra Pradesh
+♂phone9390779984 /envel⌢pen190830@rguktn.ac.in /linkedinLinkedIn /githubGitHub LeetCode
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering 2021 – 2025
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.7
+Pre University Course - PUC 2019 – 2021
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.71
+Board of Secondary Education Andhra Pradesh 2018 – 2019
+ZPP High School, Gadilanka, Andhra Pradesh CGPA: 10.0
+EXPERIENCE
+Software Developer Intern July 2024 – Present
+Testsigma Software Technologies Bengaluru, Karnataka
+•As an intern at Testsigma Software Technologies, I contribute to product development using ReactJS, TypeScript, Java,
+and Spring Boot, focusing on creating robust and scalable software solutions.
+DeepLearning Intern May 2024 – June 2024
+NIT Warangal Warangal, Telangana
+•Developed an automatic framework to predict lower limb activities using sEMG signals. Leveraged capsule network
+technology to assist individuals with disabilities, facilitating the development of mechanical lower limbs or exoskeletons
+controlled by the nervous system.
+NLP Intern March 2023 – August 2023
+IIIT Hyderabad Remote
+•I involved in development of a machine translation model to enhance language conversion accuracy, explored NLP
+techniques like word embedding and named entity recognition, and led the creation of a Quora question pair similarity
+model, optimizing performance through data preprocessing and experimentation.
+PROJECTS
+AI Support Agent |Flask, LangChain, pgvector DB, Redis DB, LLMs, ReactJS, Streamlit 2024
+•Developed an AI-powered support agent to assist customers by addressing queries and doubts, acting as the first level of
+support for companies to reduce the workload on human support engineers.
+•Implemented efficient backend services using Flask and LangChain, with vectorized data stored in pgvector DB and
+Redis DB for optimized query handling.
+•Designed an interactive frontend using ReactJS and Streamlit for seamless user engagement and real-time query
+resolution.
+Smart Marks Scanner |Computer Vision, Image Processing, Deep Learning, NLP, Python, Django, ReactJS 2023
+•Led the development of an automated system integrating webcam technology for scanning corrected booklets, using
+character recognition to detect student details and marks.
+•Generated a well-structured Excel sheet with the extracted data, streamlining the submission process to the exam cell
+department in my college.
+Lower Limb Activities Prediction |Capsule Neural Network, sEMG Signal Processing, Deep Learning, Python 2024
+•Built a model using Capsule Neural Networks with transfer learning from ResNet50 to predict lower limb activities based
+on sEMG signals.
+•Applied optimization techniques like early stopping to enhance model performance, aiding the development of
+neural-controlled mechanical limbs and exoskeletons.
+SEC IPO Detector |Python, Web Scraping, Data Analysis, GPT Models 2024
+•Developed a tool to track IPO filings in real time by analyzing the SEC’s EDGAR RSS feed, focusing on S-1 forms.
+•Enhanced detection accuracy using GPT models for classification, saving IPO-related filings into a structured CSV file
+for easy monitoring.
+Project Submission Portal |Python, Django, MongoDB, HTML, CSS, Bootstrap 2021
+•Developed the front-end for a project submission portal, simplifying the process of submitting student mini-projects to
+guides.
+•Designed user-friendly interfaces for seamless navigation, enhancing project submission and evaluation management for
+students and guides. TECHNICAL SKILLS AND INTERESTS
+Languages : Python, Java, C, HTML/CSS, SQL, Javascript
+Frameworks/Tools/Platform : Spring Boot, Bootstrap, Docker, Tailwind CSS, Git, Github, Linux, MS Office, LangChain
+Libraries : Python Libraries, React
+Relevent Coursework : Data Structures and Algorithms, Operating Systems, Object Oriented Programming, Database
+Management System, Software Engineering, Computer Networks.
+Interests : Software Development, AI, Machine Learning, Deep Learning, NLP, Computer Vision, Image Processing, Web
+Scraping, Web Development, LLMs (Large Language Models)
+Soft Skills : Problem Solving, Leadership, Event Management, Time Management, Quick Learning, Team Player
+ACHIEVEMENTS AND CERTIFICATIONS
+•Secured AIR 18th place in ‘codex’ conducted by IIIT Sri city, India.
+•Qualified in GATE 2024 with a score of 429, demonstrating proficiency.
+•Achieved mastery in solving 430+ LeetCode coding questions (DSA and SQL)."
+temp_sohithpamu_resume,"Sohith Pamu
+Mummidivaram, East Godavari, Andhra Pradesh
+♂phone9390779984 /envel⌢pen190830@rguktn.ac.in /linkedinLinkedIn /githubGitHub LeetCode
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering 2021 – 2025
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.7
+Pre University Course - PUC 2019 – 2021
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.71
+Board of Secondary Education Andhra Pradesh 2018 – 2019
+ZPP High School, Gadilanka, Andhra Pradesh CGPA: 10.0
+EXPERIENCE
+Software Developer Intern July 2024 – Present
+Testsigma Software Technologies Bengaluru, Karnataka
+•As an intern at Testsigma Software Technologies, I contribute to product development using ReactJS, TypeScript, Java,
+and Spring Boot, focusing on creating robust and scalable software solutions.
+DeepLearning Intern May 2024 – June 2024
+NIT Warangal Warangal, Telangana
+•Developed an automatic framework to predict lower limb activities using sEMG signals. Leveraged capsule network
+technology to assist individuals with disabilities, facilitating the development of mechanical lower limbs or exoskeletons
+controlled by the nervous system.
+NLP Intern March 2023 – August 2023
+IIIT Hyderabad Remote
+•I involved in development of a machine translation model to enhance language conversion accuracy, explored NLP
+techniques like word embedding and named entity recognition, and led the creation of a Quora question pair similarity
+model, optimizing performance through data preprocessing and experimentation.
+PROJECTS
+AI Support Agent |Flask, LangChain, pgvector DB, Redis DB, LLMs, ReactJS, Streamlit 2024
+•Developed an AI-powered support agent to assist customers by addressing queries and doubts, acting as the first level of
+support for companies to reduce the workload on human support engineers.
+•Implemented efficient backend services using Flask and LangChain, with vectorized data stored in pgvector DB and
+Redis DB for optimized query handling.
+•Designed an interactive frontend using ReactJS and Streamlit for seamless user engagement and real-time query
+resolution.
+Smart Marks Scanner |Computer Vision, Image Processing, Deep Learning, NLP, Python, Django, ReactJS 2023
+•Led the development of an automated system integrating webcam technology for scanning corrected booklets, using
+character recognition to detect student details and marks.
+•Generated a well-structured Excel sheet with the extracted data, streamlining the submission process to the exam cell
+department in my college.
+Lower Limb Activities Prediction |Capsule Neural Network, sEMG Signal Processing, Deep Learning, Python 2024
+•Built a model using Capsule Neural Networks with transfer learning from ResNet50 to predict lower limb activities based
+on sEMG signals.
+•Applied optimization techniques like early stopping to enhance model performance, aiding the development of
+neural-controlled mechanical limbs and exoskeletons.
+SEC IPO Detector |Python, Web Scraping, Data Analysis, GPT Models 2024
+•Developed a tool to track IPO filings in real time by analyzing the SEC’s EDGAR RSS feed, focusing on S-1 forms.
+•Enhanced detection accuracy using GPT models for classification, saving IPO-related filings into a structured CSV file
+for easy monitoring.
+Project Submission Portal |Python, Django, MongoDB, HTML, CSS, Bootstrap 2021
+•Developed the front-end for a project submission portal, simplifying the process of submitting student mini-projects to
+guides.
+•Designed user-friendly interfaces for seamless navigation, enhancing project submission and evaluation management for
+students and guides. TECHNICAL SKILLS AND INTERESTS
+Languages : Python, Java, C, HTML/CSS, SQL, Javascript
+Frameworks/Tools/Platform : Spring Boot, Bootstrap, Docker, Tailwind CSS, Git, Github, Linux, MS Office, LangChain
+Libraries : Python Libraries, React
+Relevent Coursework : Data Structures and Algorithms, Operating Systems, Object Oriented Programming, Database
+Management System, Software Engineering, Computer Networks.
+Interests : Software Development, AI, Machine Learning, Deep Learning, NLP, Computer Vision, Image Processing, Web
+Scraping, Web Development, LLMs (Large Language Models)
+Soft Skills : Problem Solving, Leadership, Event Management, Time Management, Quick Learning, Team Player
+ACHIEVEMENTS AND CERTIFICATIONS
+•Secured AIR 18th place in ‘codex’ conducted by IIIT Sri city, India.
+•Qualified in GATE 2024 with a score of 429, demonstrating proficiency.
+•Achieved mastery in solving 430+ LeetCode coding questions (DSA and SQL)."
+temp_sohithPamuHackerRankResume,"sohith p amu
+Soft w are Dev elop er | Data Science En th usiast
+n190830@rguktn.ac.in | 9390779984 | East Go da v ari, AP
+Link edin | GitHub | P ortfolio | LeetCo de
+Educa tion
+Ra jiv Gandhi Univ ersit y of Kno wledge and T ec hnology-Nuzvid Nuzvid, Andhra Pradesh
+Computer Science and Engineering Bac helor of T ec hnology 2021 - 2025
+CGP A: 9.72
+Ra jiv Gandhi Univ ersit y of Kno wledge and T ec hnology-Nuzvid Nuzvid, Andhra Pradesh
+MPC&IT Pre Univ ersit y Course 2019 - 2021
+CGP A: 9.71
+Experience
+T estsigma | Soft w are Dev elop er In tern Bengaluru, Karnatak a | July-2024 - Presen t
+As an in tern at T estsigma Soft w are T ec hnologies, I con tribute to pro duct dev elopmen t using ReactJS,
+T yp eScript, Ja v a, and Spring Bo ot, fo cusing on creating robust and scalable soft w are solutions.
+NIT W arangal | DeepLearning In tern W arangal, T elangana | Ma y 2024 - June 2024
+Dev elop ed an automatic Mo del Arc hitecture to predict lo w er lim b activities using sEMG signals.
+Lev eraged capsule net w ork tec hnology to assist individuals with disabilities, facilitating the dev elopmen t
+of mec hanical lo w er lim bs or exosk eletons con trolled b y the nerv ous system.
+I I IT Hyderabad | NLP In tern Remote | Marc h 2023 - August 2023
+I in v olv ed in dev elopmen t of a mac hine translation mo del to enhance language con v ersion accuracy ,
+explored NLP tec hniques lik e w ord em b edding and named en tit y recognition, and led the creation of a
+Quora question pair similarit y mo del, optimizing p erformance through data prepro cessing and
+exp erimen tation.
+Skills
+Programming Languages: Python, C, Ja v a, HTML, CSS, SQL, Ja v ascript
+Libraries/F ramew orks: React Js, Spring Bo ot, Bo otstrap, Do c k er, T ailwind CSS, Python Libraries
+T o ols / Platforms: Git, Lin ux, MS Oce, Gith ub, VS Co de
+Databases: RDBMS, MySQL
+Pr ojects / Open-Sour ce
+SEC IPO Detector | Link Python, W eb Scraping, Data analysis
+The SEC IPO Detector is a to ol that helps trac k IPO lings from the SECs EDGAR RSS feed in real
+time. By fo cusing on S-1 forms, this application detects IPO-related lings and sa v es them in to a CSV
+le for easy monitoring..
+Smart Marks Scanner Computer Vision, Image Pro cessing, Deep Learning, NLP , Django, ReactJS
+Led the dev elopmen t of an automated system in tegrating w eb cam tec hnology to up date studen t details
+and grades from corrected b o oklets. Emplo y ed adv anced algorithms for precise text recognition and
+image pro cessing, signican tly easing facult y w orkload
+LLA Prediction | Link Capsule Neural Net w ork, sEMG Signal Pro cessing, Deep Learning
+Dev elop ed an automatic framew ork to predict lo w er lim b activities using sEMG signals. Lev eraged
+capsule net w orks to
+assist individuals with disabilities, aiding the dev elopmen t of neural-con trolled mec hanical lim bs or
+exosk eletons.
+Pro ject Submission P ortal Python, Django, MongoDB, HTML, CSS, Bo otstrap
+Led fron t-end dev elopmen t within a dynamic team to build a pro ject submission p ortal, simplifying the
+pro cess of submitting studen t mini-pro jects to guides. Collab orated on designing user-friendly in terfaces
+for seamless na vigation, enhancing pro ject submission and ev aluation managemen t for studen ts and
+guides. Honors & A w ards
+ Secured AIR 18th place in co dex conducted b y I I IT Sri cit y , India.
+ Qualied in GA TE 2024 with a score of 429, demonstrating prociency .
+ A c hiev ed mastery in solving 400+ LeetCo de co ding questions (DSA and SQL)."
+temp_sohithpamu_resume,"Sohith Pamu
+Mummidivaram, East Godavari, Andhra Pradesh
+♂phone9390779984 /envel⌢pen190830@rguktn.ac.in /linkedinLinkedIn /githubGitHub LeetCode
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering 2021 – 2025
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.7
+Pre University Course - PUC 2019 – 2021
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.71
+Board of Secondary Education Andhra Pradesh 2018 – 2019
+ZPP High School, Gadilanka, Andhra Pradesh CGPA: 10.0
+EXPERIENCE
+Software Developer Intern July 2024 – Present
+Testsigma Software Technologies Bengaluru, Karnataka
+•As an intern at Testsigma Software Technologies, I contribute to product development using ReactJS, TypeScript, Java,
+and Spring Boot, focusing on creating robust and scalable software solutions.
+DeepLearning Intern May 2024 – June 2024
+NIT Warangal Warangal, Telangana
+•Developed an automatic framework to predict lower limb activities using sEMG signals. Leveraged capsule network
+technology to assist individuals with disabilities, facilitating the development of mechanical lower limbs or exoskeletons
+controlled by the nervous system.
+NLP Intern March 2023 – August 2023
+IIIT Hyderabad Remote
+•I involved in development of a machine translation model to enhance language conversion accuracy, explored NLP
+techniques like word embedding and named entity recognition, and led the creation of a Quora question pair similarity
+model, optimizing performance through data preprocessing and experimentation.
+PROJECTS
+AI Support Agent |Flask, LangChain, pgvector DB, Redis DB, LLMs, ReactJS, Streamlit 2024
+•Developed an AI-powered support agent to assist customers by addressing queries and doubts, acting as the first level of
+support for companies to reduce the workload on human support engineers.
+•Implemented efficient backend services using Flask and LangChain, with vectorized data stored in pgvector DB and
+Redis DB for optimized query handling.
+•Designed an interactive frontend using ReactJS and Streamlit for seamless user engagement and real-time query
+resolution.
+Smart Marks Scanner |Computer Vision, Image Processing, Deep Learning, NLP, Python, Django, ReactJS 2023
+•Led the development of an automated system integrating webcam technology for scanning corrected booklets, using
+character recognition to detect student details and marks.
+•Generated a well-structured Excel sheet with the extracted data, streamlining the submission process to the exam cell
+department in my college.
+Lower Limb Activities Prediction |Capsule Neural Network, sEMG Signal Processing, Deep Learning, Python 2024
+•Built a model using Capsule Neural Networks with transfer learning from ResNet50 to predict lower limb activities based
+on sEMG signals.
+•Applied optimization techniques like early stopping to enhance model performance, aiding the development of
+neural-controlled mechanical limbs and exoskeletons.
+SEC IPO Detector |Python, Web Scraping, Data Analysis, GPT Models 2024
+•Developed a tool to track IPO filings in real time by analyzing the SEC’s EDGAR RSS feed, focusing on S-1 forms.
+•Enhanced detection accuracy using GPT models for classification, saving IPO-related filings into a structured CSV file
+for easy monitoring.
+Project Submission Portal |Python, Django, MongoDB, HTML, CSS, Bootstrap 2021
+•Developed the front-end for a project submission portal, simplifying the process of submitting student mini-projects to
+guides.
+•Designed user-friendly interfaces for seamless navigation, enhancing project submission and evaluation management for
+students and guides. TECHNICAL SKILLS AND INTERESTS
+Languages : Python, Java, C, HTML/CSS, SQL, Javascript
+Frameworks/Tools/Platform : Spring Boot, Bootstrap, Docker, Tailwind CSS, Git, Github, Linux, MS Office, LangChain
+Libraries : Python Libraries, React
+Relevent Coursework : Data Structures and Algorithms, Operating Systems, Object Oriented Programming, Database
+Management System, Software Engineering, Computer Networks.
+Interests : Software Development, AI, Machine Learning, Deep Learning, NLP, Computer Vision, Image Processing, Web
+Scraping, Web Development, LLMs (Large Language Models)
+Soft Skills : Problem Solving, Leadership, Event Management, Time Management, Quick Learning, Team Player
+ACHIEVEMENTS AND CERTIFICATIONS
+•Secured AIR 18th place in ‘codex’ conducted by IIIT Sri city, India.
+•Qualified in GATE 2024 with a score of 429, demonstrating proficiency.
+•Achieved mastery in solving 430+ LeetCode coding questions (DSA and SQL)."
+temp_sohithpamu_resume,"Sohith Pamu
+Mummidivaram, East Godavari, Andhra Pradesh
+♂phone9390779984 /envel⌢pen190830@rguktn.ac.in /linkedinLinkedIn /githubGitHub LeetCode
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering 2021 – 2025
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.7
+Pre University Course - PUC 2019 – 2021
+Rajiv Gandhi University of Knowledge and Technology-Nuzvid, Andhra Pradesh CGPA: 9.71
+Board of Secondary Education Andhra Pradesh 2018 – 2019
+ZPP High School, Gadilanka, Andhra Pradesh CGPA: 10.0
+EXPERIENCE
+Software Developer Intern July 2024 – Present
+Testsigma Software Technologies Bengaluru, Karnataka
+•As an intern at Testsigma Software Technologies, I contribute to product development using ReactJS, TypeScript, Java,
+and Spring Boot, focusing on creating robust and scalable software solutions.
+DeepLearning Intern May 2024 – June 2024
+NIT Warangal Warangal, Telangana
+•Developed an automatic framework to predict lower limb activities using sEMG signals. Leveraged capsule network
+technology to assist individuals with disabilities, facilitating the development of mechanical lower limbs or exoskeletons
+controlled by the nervous system.
+NLP Intern March 2023 – August 2023
+IIIT Hyderabad Remote
+•I involved in development of a machine translation model to enhance language conversion accuracy, explored NLP
+techniques like word embedding and named entity recognition, and led the creation of a Quora question pair similarity
+model, optimizing performance through data preprocessing and experimentation.
+PROJECTS
+AI Support Agent |Flask, LangChain, pgvector DB, Redis DB, LLMs, ReactJS, Streamlit 2024
+•Developed an AI-powered support agent to assist customers by addressing queries and doubts, acting as the first level of
+support for companies to reduce the workload on human support engineers.
+•Implemented efficient backend services using Flask and LangChain, with vectorized data stored in pgvector DB and
+Redis DB for optimized query handling.
+•Designed an interactive frontend using ReactJS and Streamlit for seamless user engagement and real-time query
+resolution.
+Smart Marks Scanner |Computer Vision, Image Processing, Deep Learning, NLP, Python, Django, ReactJS 2023
+•Led the development of an automated system integrating webcam technology for scanning corrected booklets, using
+character recognition to detect student details and marks.
+•Generated a well-structured Excel sheet with the extracted data, streamlining the submission process to the exam cell
+department in my college.
+Lower Limb Activities Prediction |Capsule Neural Network, sEMG Signal Processing, Deep Learning, Python 2024
+•Built a model using Capsule Neural Networks with transfer learning from ResNet50 to predict lower limb activities based
+on sEMG signals.
+•Applied optimization techniques like early stopping to enhance model performance, aiding the development of
+neural-controlled mechanical limbs and exoskeletons.
+SEC IPO Detector |Python, Web Scraping, Data Analysis, GPT Models 2024
+•Developed a tool to track IPO filings in real time by analyzing the SEC’s EDGAR RSS feed, focusing on S-1 forms.
+•Enhanced detection accuracy using GPT models for classification, saving IPO-related filings into a structured CSV file
+for easy monitoring.
+Project Submission Portal |Python, Django, MongoDB, HTML, CSS, Bootstrap 2021
+•Developed the front-end for a project submission portal, simplifying the process of submitting student mini-projects to
+guides.
+•Designed user-friendly interfaces for seamless navigation, enhancing project submission and evaluation management for
+students and guides. TECHNICAL SKILLS AND INTERESTS
+Languages : Python, Java, C, HTML/CSS, SQL, Javascript
+Frameworks/Tools/Platform : Spring Boot, Bootstrap, Docker, Tailwind CSS, Git, Github, Linux, MS Office, LangChain
+Libraries : Python Libraries, React
+Relevent Coursework : Data Structures and Algorithms, Operating Systems, Object Oriented Programming, Database
+Management System, Software Engineering, Computer Networks.
+Interests : Software Development, AI, Machine Learning, Deep Learning, NLP, Computer Vision, Image Processing, Web
+Scraping, Web Development, LLMs (Large Language Models)
+Soft Skills : Problem Solving, Leadership, Event Management, Time Management, Quick Learning, Team Player
+ACHIEVEMENTS AND CERTIFICATIONS
+•Secured AIR 18th place in ‘codex’ conducted by IIIT Sri city, India.
+•Qualified in GATE 2024 with a score of 429, demonstrating proficiency.
+•Achieved mastery in solving 430+ LeetCode coding questions (DSA and SQL)."
